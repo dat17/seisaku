@@ -14,7 +14,10 @@
 - 11/8(準備)
 - 11/9,10 作品展
 
-# 話題
+## 10/12
+- 残り作業と進捗の聞き取り
+
+## 話題
 - [「Live2D Creative Awards」](http://www.live2d.com/ja/award2018?utm_source=Cubism+3+Editor+Download+JP&utm_campaign=389b2dca70-EMAIL_CAMPAIGN_2018_08_31_06_19_COPY_01&utm_medium=email&utm_term=0_2bb79c10a6-389b2dca70-17250555)
 - [2018年10月23日(火) Live2D Creative Studio採用募集説明会](http://www.live2d.com/ja/news/cs_seminar_201810?utm_source=Cubism+3+Editor+Download+JP&utm_campaign=389b2dca70-EMAIL_CAMPAIGN_2018_08_31_06_19_COPY_01&utm_medium=email&utm_term=0_2bb79c10a6-389b2dca70-17250555)
   - 「Live2D Creative Studio（Live2Dを使ってキャラクターや作品を産み出すデザイナーチーム）」の一員として一緒に働いていただけるデザイナースタッフを募集
