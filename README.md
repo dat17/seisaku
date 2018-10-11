@@ -10,6 +10,7 @@
 - 10/18,19
 - 10/25,26
 - 11/1,2
+- 11/4 デジゲー博
 - 11/8(準備)
 - 11/9,10 作品展
 
@@ -20,6 +21,13 @@
 - [株式会社Live2D　開発チーム　採用説明会](http://www.live2d.com/ja/news/dev_seminar_201810_and_12?utm_source=Cubism%203%20Editor%20Download%20JP&utm_campaign=389b2dca70-EMAIL_CAMPAIGN_2018_08_31_06_19_COPY_01&utm_medium=email&utm_term=0_2bb79c10a6-389b2dca70-17250555)
   - エンジニア向け
 - [MODELING HAPPY. Mayaの街を作る$49のプラグインMaya Structures](https://modelinghappy.com/archives/13122)
+
+## デジゲー博
+- http://digigame-expo.org/
+- 田中が出展。展示できる状態の作品があれば横に展示します(http://digigame-expo.org/circlelist)
+- 締め切り：11/2
+- 操作説明などの印刷物
+
 
 # 後期1回目
 ## 作品展までの日程
