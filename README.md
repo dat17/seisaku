@@ -20,6 +20,9 @@
 - 完成させるだけでよい1年生とは異なり、2年生ではクオリティを上げるのがミッション
   - 早めに遊べる状態にして、お互いにテストプレイをしたり、仕上げをする時間を作る
 - 残りの時間が少なくなったので、作業の予測が簡単になっている。残り作業と進捗を書き出して、完成までの工程と担当者を明らかにする
+  - MUST(やらなければならないこと)と、WANT(やりたいこと)を分けて、作業に優先順位をつける
+    - [参考](http://labs.kamimoto.biz/direction/organize-condition-demands-must-want.html)
+  - 残り作業に応じて、作業の分担が必要なら検討する
 
 ## 話題
 - [「Live2D Creative Awards」](http://www.live2d.com/ja/award2018?utm_source=Cubism+3+Editor+Download+JP&utm_campaign=389b2dca70-EMAIL_CAMPAIGN_2018_08_31_06_19_COPY_01&utm_medium=email&utm_term=0_2bb79c10a6-389b2dca70-17250555)
