@@ -1,5 +1,26 @@
 # 卒業制作クラス用リポジトリー
 
+# 後期3週目
+## 作品展までの日程
+- 10/4,5
+- 10/11,12
+
+---
+
+- 10/18,19
+- 10/25,26
+  - 仕様を全て入れて、遊べる状態にする(β版)
+- 11/1,2
+  - 完成候補版(RC版)
+- 11/4 デジゲー博
+- 11/8(準備)
+- 11/9,10 作品展
+
+## 予定
+- モック画面のチェック
+- 残り作業の確認
+  - MUST(やらなければならないこと)と、WANT(やりたいこと)を分けて、作業に優先順位をつける
+
 # 後期2週目
 ## 作品展までの日程
 - 10/4,5
@@ -23,7 +44,6 @@
   - MUST(やらなければならないこと)と、WANT(やりたいこと)を分けて、作業に優先順位をつける
     - [参考](http://labs.kamimoto.biz/direction/organize-condition-demands-must-want.html)
   - 残り作業に応じて、作業の分担が必要なら検討する
-
 
 ## 話題
 - [「Live2D Creative Awards」](http://www.live2d.com/ja/award2018?utm_source=Cubism+3+Editor+Download+JP&utm_campaign=389b2dca70-EMAIL_CAMPAIGN_2018_08_31_06_19_COPY_01&utm_medium=email&utm_term=0_2bb79c10a6-389b2dca70-17250555)
