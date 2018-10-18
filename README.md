@@ -15,7 +15,7 @@
 
 ## 予定
 - モック画面のチェック(14:30ごろ、細谷先生がいらっしゃいます)
-  - 魅力的な画面になっているかのチェック
+  - [魅力的な画面になっているかのチェック](https://docs.google.com/presentation/d/1BJ7N1UnUoIpnIqhIgdnRRvX2D2SuWrgeYz3j7OFkX_g/edit?usp=sharing)
     - ぱっと見の画面の印象
     - ユーザーインターフェースや文字の表示場所などのレイアウト
     - フォント
