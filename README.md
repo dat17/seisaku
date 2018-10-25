@@ -13,6 +13,9 @@
 - 11/8(準備)
 - 11/9,10 作品展
 
+## 話題
+- [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
+
 ## 予定(10/19)
 - 作業確認について
   - MUST(やらなければならないこと)と、WANT(やりたいこと)を分けて、作業に優先順位をつける
