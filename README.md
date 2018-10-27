@@ -1,5 +1,32 @@
 # 卒業制作クラス用リポジトリー
 
+# 参考URL
+- [Unity1週間ゲームジャム 11/19(月)〜11/25(日) 20:00](https://twitter.com/naichilab/status/1052734490030747649)
+  - 11/18(日) 秋葉原のWeeybleにて準備会
+- [Unity 2D Challenge](https://prtimes.jp/main/html/rd/p/000000078.000016287.html)
+  - 2018年10月24日10時から12月18日15時59分まで
+- [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
+
+# 後期5週目
+## 作品展までの日程
+- 10/4,5
+- 10/11,12
+- 10/18,19
+- 10/25,26
+- **11/1,2**
+  - 完成候補版(RC版)
+- 11/4 デジゲー博
+- 11/8(準備)
+- 11/9,10 作品展
+
+## 話題
+- [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
+
+## 予定
+- 作業確認について
+  - MUST(やらなければならないこと)と、WANT(やりたいこと)を分けて、作業に優先順位をつける
+
+
 # 後期4週目
 ## 作品展までの日程
 - 10/4,5
