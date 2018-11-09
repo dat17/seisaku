@@ -2,7 +2,6 @@
 
 # 参考URL
 - [Unity1週間ゲームジャム 11/19(月)〜11/25(日) 20:00](https://twitter.com/naichilab/status/1052734490030747649)
-  - 11/18(日) 秋葉原のWeeybleにて準備会
 - [Unity 2D Challenge](https://prtimes.jp/main/html/rd/p/000000078.000016287.html)
   - 2018年10月24日10時から12月18日15時59分まで
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
@@ -13,6 +12,7 @@
   - 11/19(月) 0:00 ～ 11/25(日) 20:00
 - [unityroom アドベントカレンダー 2018](https://unityroom.com/events/1054)
   - 就活、個人のプロジェクトを優先してください
+- [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 
 ## 今後の方針
 - DATフェスタの作品の講評
