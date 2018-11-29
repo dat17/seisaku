@@ -9,9 +9,9 @@
 # 後期7週目(11/29, 30)
 ## 話題
 - Unity1週間ゲームジャム ゲームプログラマーコース1年作品
-  - https://t.co/R3RCUEE5Xn
+  - https://unityroom.com/games/ookami_youjyo_jungle
   - https://unityroom.com/games/gj201811
-  - https://t.co/PhSwSXMuc37
+  - https://unityroom.com/games/blackymt
 
 ## 今後の進め方について
 - 東ゲ部のもくもく会方式でしばらく進めます
@@ -21,6 +21,7 @@
 
 ## 予定
 - Trelloにこのクラスのチームを作ってから、作業予定の書きこみ、発表を行います
+  - 招待リンク https://trello.com/invite/dat1711/b1edac9eb470d9f994c886263a5ef187
 - それ以降は各自、作業
 
 ## 作業内容のポイント
