@@ -6,7 +6,7 @@
   - 2018年10月24日10時から12月18日15時59分まで
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 
-# 後期7週目
+# 後期7週目(11/29, 30)
 ## 話題
 - Unity1週間ゲームジャム ゲームプログラマーコース1年作品
   - https://t.co/R3RCUEE5Xn
@@ -14,7 +14,8 @@
   - https://t.co/PhSwSXMuc37
 
 ## 予定
-- 状況の聞き取りと作業
+- DATフェスタ作品の公開に向けた進捗確認
+- ポートフォリオ作成など作業
 
 # 後期6週目
 ## 話題
