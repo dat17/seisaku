@@ -7,6 +7,8 @@
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 
 # 後期8週目(12/6, 7)
+- [無料アセットが色々出ているので、しばらくアセット探し時間](https://assetsale.herokuapp.com/ja/free)
+
 ## 予定発表
 Trelloに書き込んで、簡単に発表してもらいます。箇条書きでよいです。
 
