@@ -7,6 +7,9 @@
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 
 # 後期9週目(12/13, 14)
+## cocos2d-xについて
+- cocos2d-xとcocos Creatorのどちらを使っているか教えてください
+
 ## 予定発表(木曜日)
 Trelloに書き込んで、簡単に内容を伺います。箇条書きでよいです。
 
