@@ -7,10 +7,14 @@
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 
 # 後期9週目(12/13, 14)
-## 発表(金曜日)
+## 発表(金曜日) 11:40頃から
 - YouTubeで画面共有して、昨日、今日で作業した内容を報告してください
   - 画面共有の手順 https://docs.google.com/document/d/1K2qQQWYRZjeqF4AO__FPObyyHOBDVMgdy8bhGiCz8xI/
   - 報告用Trello https://trello.com/b/BCyk2XsD/%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C2018
+
+## 来週の予定
+- 来週が今年最後の週なので、DATフェスタ作品の公開に向けた進捗報告をお願いします
+  - 媒体 Web, PC用実行ファイル, スマホそれぞれの予定と進捗
 
 ## 予定発表(木曜日)
 Trelloに書き込んで、簡単に内容を伺います。箇条書きでよいです。
