@@ -6,6 +6,11 @@
   - 2018年10月24日10時から12月18日15時59分まで
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 
+# 後期11回目(1/10, 11)
+## 話題
+- [三日月時間. 未経験なので仕事と実績が欲しいイラストレーターさん用資料](https://docs.google.com/presentation/d/1ef9Or38V5PRiWQTVOAGq9Tq5ibnEFeU5zg5PTPLNOLQ/)
+
+
 # 後期10週目(12/20, 21)
 
 ## 予定(金曜日)
