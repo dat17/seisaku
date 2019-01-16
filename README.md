@@ -6,6 +6,14 @@
   - 2018年10月24日10時から12月18日15時59分まで
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 
+# 後期12回目(1/17, 18)
+## 予定発表(木曜日)
+- DATフェスタ作品について公開と、パッケージ作成を金曜日までに目途をつけることを目指します
+  - Trelloに書き込んで、簡単に内容を伺います。箇条書きでよいです。
+    - https://trello.com/b/BCyk2XsD/%E5%8D%92%E6%A5%AD%E5%88%B6%E4%BD%9C2018 を開いて、ログインしたら、今日の日付のボードにコメントとして以下を参考に作業予定を書いてください。1～2行で構いません。
+- ポートフォリオや個人作品の進捗
+
+
 # 後期11回目(1/10, 11)
 ## 話題
 - [三日月時間. 未経験なので仕事と実績が欲しいイラストレーターさん用資料](https://docs.google.com/presentation/d/1ef9Or38V5PRiWQTVOAGq9Tq5ibnEFeU5zg5PTPLNOLQ/)
