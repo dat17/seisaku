@@ -7,6 +7,12 @@
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 
 # 後期13回目(1/24, 25)
+## 予定(金曜日)
+- DAT作品の公開データとページの完成
+- DVDパッケージとDVDの印刷デザインの完成
+- チームの一人でよいので、作品URLと発表用のYouTubeのURLをTrelloに貼り付ける
+  - YouTubeではパッケージとDVDのデザインメインで、作品の方はそれぞれで遊んでもらうのでYouTubeでは紹介は不要
+
 ## 予定発表(木曜日)
 - DATフェスタ作品について金曜日までにビルド、作品説明を揃える。1/25までに仕上げることを目指す
   - Trelloに書き込んで、簡単に内容を伺います。箇条書きでよいです。
