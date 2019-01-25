@@ -10,6 +10,7 @@
 ## 予定(金曜日)
 - DAT作品の公開データとページの完成
 - DVDパッケージとDVDの印刷デザインの完成
+  - DVDについては http://gizport.jp/manual/1908716/?id=115231 の16p以降
 - チームの一人でよいので、作品URLと発表用のYouTubeのURLをTrelloに貼り付ける
   - YouTubeではパッケージとDVDのデザインメインで、作品の方はそれぞれで遊んでもらうのでYouTubeでは紹介は不要
 
