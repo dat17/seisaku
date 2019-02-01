@@ -6,15 +6,23 @@
   - 2018年10月24日10時から12月18日15時59分まで
 - [Visual Effect Graph - Realtime visual effects In Unity 2018.3](https://youtu.be/SUZzJcBIK80)
 
+# 後期最終週(2/7, 8)
+## 予定
+- 仕上げ
+- パッケージやDVDの焼きこみ、印刷
+
+## 予定：最終日
+- 作品発表と試遊会
+
+
 # 後期14回目(1/31, 2/1)
 ## 参考
 - パッケージにUnityロゴを表示してよいか？
   - [Unityの商標の使用に関するガイドライン](https://unity3d.com/jp/legal/branding_trademarks)
 
 ## 予定
-- 時間を分けて試遊会を行い、意見を出し合う
+- 試遊と仕上げ
 - パッケージやDVDの焼きこみ、印刷
-
 
 # 後期13回目(1/24, 25)
 ## 予定(金曜日)
